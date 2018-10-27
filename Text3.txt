@@ -1,1 +1,4 @@
 new text 3 file is added
+
+
+Modified with new line via local repo in master
